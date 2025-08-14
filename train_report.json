@@ -1,0 +1,8 @@
+{
+  "dataset_path": "C:/Users/Dell/OneDrive/Desktop/drdo2/results\\dataset.feather",
+  "features_path": "C:/Users/Dell/OneDrive/Desktop/drdo2/results\\features.feather",
+  "model_path": "C:/Users/Dell/OneDrive/Desktop/drdo2/results\\model.joblib",
+  "metrics_path": "C:/Users/Dell/OneDrive/Desktop/drdo2/results\\metrics.json",
+  "cv_accuracy_mean": 0.51925,
+  "cv_auc_mean": 0.52404125
+}
